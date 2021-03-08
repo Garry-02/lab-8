@@ -95,3 +95,25 @@ footer {
     padding: 1rem;
     font-size: 1.5rem;
 }
+
+.aboutme {
+    margin: 2rem;
+    top: 10;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    background-color: #db504a;
+    width: 40rem;
+    border: 3px #334259 solid;
+}
+
+.me {
+    font-size: 1rem;
+}
+
+.image {
+    height:500px;
+    width:400px;
+}
