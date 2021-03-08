@@ -78,3 +78,20 @@ footer {
     margin-top: 2rem;
 }
 
+.courselist {
+    margin-top: 2rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    background-color: #db504a;
+    width: 23rem;
+    border: 3px #334259 solid;
+    list-style: none;
+}
+
+.course {
+    padding: 1rem;
+    font-size: 1.5rem;
+}
